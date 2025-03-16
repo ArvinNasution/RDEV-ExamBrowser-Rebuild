@@ -1,5 +1,7 @@
 # ExamBro Mod
 
+![app_icon](https://github.com/user-attachments/assets/a022bf37-cc89-4b95-aca1-05448cf5abda)
+
 Modifikasi dari beberapa jenis ExamBro dengan fitur tambahan, termasuk pinning app yang tidak ada di dalamnya.
 
 ## 📥 Download
