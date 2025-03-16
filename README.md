@@ -6,7 +6,7 @@ Modifikasi dari beberapa jenis ExamBro dengan fitur tambahan, termasuk pinning a
 
 > **Pilih versi yang sesuai dengan kebutuhan Anda:**
 
-- **RDEV-ExamBrowser-Rebuild** - [Download]([https://example.com/rdev-exambrowser-rebuild](https://github.com/ArvinNasution/RDEV-ExamBrowser-Rebuild/releases/download/apps/app-release.apk))
+- **RDEV-ExamBrowser-Rebuild** - [Download](https://github.com/ArvinNasution/RDEV-ExamBrowser-Rebuild/releases/download/apps/app-release.apk)
 ## 🚀 Fitur
 
 ✅ Support Floating Apps - Aplikasi dapat berjalan bersamaan dengan aplikasi lain di layar  
